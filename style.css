@@ -1,0 +1,127 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: font-family: 'Noto Sans KR', sans-serif;
+
+}
+
+.all_container {
+	width: 80%;
+	height: 100%;
+	margin: auto;
+	margin-top: 10px;
+
+}
+
+.nametag {
+	margin: 30px;
+	width: 100%;
+	
+	display: flex;
+	font-size: 12px;
+	margin-bottom: 20px;
+	text-align: 50px;
+	flex-direction: row;
+	flex-flow: wrap;
+}
+
+.margin {
+	padding: 10px;
+	display: flex;
+}
+
+.font {
+	padding-left: 5px;
+	text-align: 50px;
+}
+
+
+.sidi_container {
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	flex-flow: wrap;
+}
+
+.just_person {
+	width: 25px;
+	height: 25px;
+	background-color: darkslategray;
+	box-sizing: border-box;
+
+}
+
+.sidi_person {
+	width: 25px;
+	height: 25px;
+	background-color: #fff100;
+	box-sizing: border-box;
+
+}
+
+.sandi_person {
+	width: 25px;
+	height: 25px;
+	background-color: skyblue;
+	box-sizing: border-box;
+
+}
+
+
+.sumdi_person {
+	width: 25px;
+	height: 25px;
+	background-color: orange;
+	box-sizing: border-box;
+
+}
+
+.painting_person {
+	width: 25px;
+	height: 25px;
+	background-color: lightpink;
+	box-sizing: border-box;
+}
+
+.orientalpainting_person {
+	width: 25px;
+	height: 25px;
+	background-color: lightgreen;
+	box-sizing: grey;
+}
+
+.wood_person {
+	width: 25px;
+	height: 25px;
+	background-color: darkseagreen;
+	box-sizing: border-box;
+}
+
+.metal_person {
+	width: 25px;
+	height: 25px;
+	background-color: plum;
+	box-sizing: border-box;
+}
+
+.press_person {
+	width: 25px;
+	height: 25px;
+	background-color: aqua;
+	box-sizing: border-box;
+}
+
+.sculpture_person {
+	width: 25px;
+	height: 25px;
+	background-color: lightgrey;
+	box-sizing: border-box;
+}
+
+.ceramic_person {
+	width: 25px;
+	height: 25px;
+	background-color: #b7b7b7;
+	box-sizing: border-box;
+}
+
